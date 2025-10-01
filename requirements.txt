@@ -1,0 +1,5 @@
+streamlit
+pandas
+plotly
+libsql-client
+nest_asyncio
